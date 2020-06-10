@@ -20,7 +20,7 @@ const Home = () => {
                     <p>
                         Ajudamos pessoas a encontrar pontos de coleta de forma eficiente.
                     </p>
-                    <Link to="/create-point ">
+                    <Link to="/create-point">
                         <span>
                             <FiLogIn />
                         </span>
